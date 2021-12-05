@@ -10,6 +10,8 @@
 
 **@Linethree** <sub><sup> WEB FE Developer (2021.04 ~ )</sup></sub>
 
+🚀 *For More Info...*  **[BLOG](https://velog.io/@lucid)** | **[RESUME](https://leechaeng.notion.site)**
+
 
 [![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeng&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
