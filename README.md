@@ -8,6 +8,7 @@
 [![Apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)](https://www.apollographql.com/)
 [![Styled-Components Badge](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
+**@Asleep-ai** <sub><sup> WEB FE Developer (2022.06 ~ )</sup></sub> <br />
 **@Linethree** <sub><sup> WEB FE Developer (2021.04 ~ 2022.05)</sup></sub>
 
 🚀 *For More Info...*  **[BLOG](https://velog.io/@lucid)** | **[RESUME](https://leechaeng.notion.site)**
