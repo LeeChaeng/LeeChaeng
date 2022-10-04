@@ -2,7 +2,7 @@
 **@Asleep-ai** <sub><sup> WEB FE Developer (2022.06 ~ )</sup></sub> <br />
 **@Linethree** <sub><sup> WEB FE Developer (2021.04 ~ 2022.05)</sup></sub>
 
-🚀 *For More Info...*  **[BLOG](https://velog.io/@lucid)** | **[RESUME](https://leechaeng.notion.site)**
+🚀 *For More Info...*  **[BLOG](https://velog.io/@lucid)** | **[RESUME](https://leechaeng.notion.site)** | **[LINKEDIN](https://www.linkedin.com/in/leechaeng/)**
 
 
 [![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechaeng&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
